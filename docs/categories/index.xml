@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Peliculas</title>
-    <link>http://example.org/categories/</link>
+    <link>https://alvaroplanas.github.io/ejercicio_hugo1/categories/</link>
     <description>Recent content in Categories on Peliculas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://alvaroplanas.github.io/ejercicio_hugo1/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accion</title>
-      <link>http://example.org/categories/accion/</link>
+      <link>https://alvaroplanas.github.io/ejercicio_hugo1/categories/accion/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/categories/accion/</guid>
+      <guid>https://alvaroplanas.github.io/ejercicio_hugo1/categories/accion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comedia</title>
-      <link>http://example.org/categories/comedia/</link>
+      <link>https://alvaroplanas.github.io/ejercicio_hugo1/categories/comedia/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/categories/comedia/</guid>
+      <guid>https://alvaroplanas.github.io/ejercicio_hugo1/categories/comedia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Romantico</title>
-      <link>http://example.org/categories/romantico/</link>
+      <link>https://alvaroplanas.github.io/ejercicio_hugo1/categories/romantico/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/categories/romantico/</guid>
+      <guid>https://alvaroplanas.github.io/ejercicio_hugo1/categories/romantico/</guid>
       <description></description>
     </item>
     

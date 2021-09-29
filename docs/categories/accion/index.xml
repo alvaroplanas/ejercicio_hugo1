@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Accion on Peliculas</title>
-    <link>http://example.org/categories/accion/</link>
+    <link>https://alvaroplanas.github.io/ejercicio_hugo1/categories/accion/</link>
     <description>Recent content in Accion on Peliculas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="http://example.org/categories/accion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://alvaroplanas.github.io/ejercicio_hugo1/categories/accion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Avengers: Endgame</title>
-      <link>http://example.org/peliculas/vengadores/</link>
+      <link>https://alvaroplanas.github.io/ejercicio_hugo1/peliculas/vengadores/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/peliculas/vengadores/</guid>
+      <guid>https://alvaroplanas.github.io/ejercicio_hugo1/peliculas/vengadores/</guid>
       <description>Avengers: Endgame (Vengadores: Endgame en España)2​ es una película de superhéroes estadounidense de 2019 basada en el equipo de superhéroes Los Vengadores de Marvel Comics. Producida por Marvel Studios y distribuida por Walt Disney Studios Motion Pictures, es la secuela directa de Avengers: Infinity War (2018) y la película número 22 del Universo cinematográfico de Marvel (UCM). Dirigida por Anthony y Joe Russo y escrita por Christopher Markus y Stephen McFeely, la película cuenta con un reparto coral que incluye a Robert Downey Jr.</description>
     </item>
     
     <item>
       <title>FreeGuy</title>
-      <link>http://example.org/peliculas/freeguy/</link>
+      <link>https://alvaroplanas.github.io/ejercicio_hugo1/peliculas/freeguy/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/peliculas/freeguy/</guid>
+      <guid>https://alvaroplanas.github.io/ejercicio_hugo1/peliculas/freeguy/</guid>
       <description>Free Guy (En Hispanoamérica Free Guy: Tomando El Control) es una película estadounidense de 2021 de ciencia ficción y acción dirigida por Shawn Levy a partir de un guion de Matt Lieberman y Zak Penn y una historia de Lieberman. La película está protagonizada por Ryan Reynolds en el papel de un cajero de banco que descubre que en realidad es un personaje no jugador en un videojuego de mundo abierto y decide convertirse en el héroe de la historia y salvar a sus amigos de ser eliminados por el creador del juego (Taika Waititi); también actúan Jodie Comer, Lil Rel Howery, Utkarsh Ambudkar y Joe Keery.</description>
     </item>
     

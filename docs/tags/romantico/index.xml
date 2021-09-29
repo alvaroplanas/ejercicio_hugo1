@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Romantico on Peliculas</title>
-    <link>http://example.org/tags/romantico/</link>
+    <link>https://alvaroplanas.github.io/ejercicio_hugo1/tags/romantico/</link>
     <description>Recent content in Romantico on Peliculas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="http://example.org/tags/romantico/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate><atom:link href="https://alvaroplanas.github.io/ejercicio_hugo1/tags/romantico/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Titanic</title>
-      <link>http://example.org/peliculas/titanic/</link>
+      <link>https://alvaroplanas.github.io/ejercicio_hugo1/peliculas/titanic/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
       
-      <guid>http://example.org/peliculas/titanic/</guid>
+      <guid>https://alvaroplanas.github.io/ejercicio_hugo1/peliculas/titanic/</guid>
       <description>Titanic es una película estadounidense dramática de catástrofe de 1997 dirigida y escrita por James Cameron y protagonizada por Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates, Gloria Stuart y Bill Paxton.2​3​ La trama, una epopeya romántica,3​4​ relata la relación de Jack Dawson y Rose DeWitt Bukater, dos jóvenes que se conocen y se enamoran a bordo del transatlántico RMS Titanic en su viaje inaugural desde Southampton (Inglaterra) a Nueva York (EE.</description>
     </item>
     
