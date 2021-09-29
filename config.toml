@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://alvaroplanas.github.io/ejercicio_hugo1/'
 languageCode = 'es-es'
 title = 'Peliculas'
 theme = "parsa"
